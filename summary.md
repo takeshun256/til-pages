@@ -1,5 +1,5 @@
 ---
-layout: summary
+layout: default
 title: summary
 ---
 

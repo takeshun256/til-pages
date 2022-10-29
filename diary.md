@@ -1,5 +1,5 @@
 ---
-layout: diary
+layout: default
 title: diary
 ---
 
